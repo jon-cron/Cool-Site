@@ -1,5 +1,5 @@
 :root {
-  --bg: rgb(47, 47, 158);
+  --bg: rgb(36, 36, 122);
 }
 
 .d-flex {
@@ -7,7 +7,7 @@
 }
 
 .top-bar {
-  background: rgb(198, 198, 240);
+  background: rgb(181, 181, 247);
   height: 1em;
   width: 35em;
   position: relative;
@@ -76,7 +76,7 @@ header {
 
 footer {
   background: var(--bg);
-  height: 10em;
+  height: 7em;
   margin: 0;
   width: 100%;
   display: flex;
